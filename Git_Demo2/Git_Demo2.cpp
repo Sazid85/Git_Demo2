@@ -15,6 +15,7 @@ int main()
     cout << "MFC + Javascript";
 
     cout << add(10, 20);
+    cout << "Hello Sunny" << endl;
 
     return 0;
 }
